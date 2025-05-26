@@ -10,6 +10,6 @@ public class ReverseAString {
     }
 
     public static void main(String[] args) {
-        reverse("hello");
+        reverse("hello"); // returns elloh
     }
 }
